@@ -1,5 +1,5 @@
 # Calculator made using pythons tkinter module
-# Author - Mohamed Akil
+# Author - ujitha naleen
 
 from tkinter import *
 
